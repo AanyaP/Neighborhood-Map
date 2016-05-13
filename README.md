@@ -1,5 +1,12 @@
 Neighborhood Map Project Version: 1.0 02/06/2016
 
+PROJECT LINK
+
+Check out the project by clicking the following link!
+
+http://aanyap.github.io/Neighborhood-Map/
+
+
 PROJECT DESCRIPTION
 --------------------
 
